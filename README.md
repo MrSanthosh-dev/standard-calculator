@@ -106,11 +106,11 @@ index.html
 ```
 
 ## OUTPUT:
-![output](/img/outputcalc.png)
+![output](/image/outputcalc.png)
 
 
 ## HTML VALIDATOR:
-![output](/img/htmlvali.png)
+![output](/image/htmlvali.png)
 
 ## Result:
 The program for designing a simple calculator using Javascript is created successfully.
